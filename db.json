@@ -1,23 +1,9 @@
 {
-  "posts": [
+  "todos": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Test-Task",
-      "body": "This is test task",
+      "title": "Subject",
+      "content": "React",
+      "id": "a34c3a13-546a-4105-8b8c-ece7638d3068",
       "status": false
     }
   ]
